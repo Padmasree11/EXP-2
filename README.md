@@ -55,6 +55,11 @@ Tabulation for Load Test:
 
 Model graph:
 ![alt text](image-4.png)
+Open Circuit Test:
+<img width="1080" height="1285" alt="image" src="https://github.com/user-attachments/assets/bcec4fff-efb5-4fd9-a986-c4ad4a8f882b" />
+
+Load Test:
+![WhatsApp Image 2026-03-18 at 7 39 51 PM](https://github.com/user-attachments/assets/50e91985-2f80-40a2-8912-2c1a9ea719f3)
 
 Calculation:
 
